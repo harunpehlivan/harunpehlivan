@@ -1,4 +1,7 @@
 # DataCamp Template Course
+
+[![Join the chat at https://gitter.im/harunpehlivan/harunpehlivan](https://badges.gitter.im/harunpehlivan/harunpehlivan.svg)](https://gitter.im/harunpehlivan/harunpehlivan?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <a href=https://www.datacamp.com//teach/repositories/70210622/go target="_blank"><img src="https://s3.amazonaws.com/assets.datacamp.com/img/github/content-engineering-repos/course_button.png" width="150"></a>
 <a href=https://www.datacamp.com//teach/repositories target="_blank"><img src="https://s3.amazonaws.com/assets.datacamp.com/img/github/content-engineering-repos/dashboard_button.png" width="150"></a>
 
